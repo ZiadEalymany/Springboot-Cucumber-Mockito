@@ -1,2 +1,2 @@
 # Springboot-Cucumber-Mockito
-A demo Springboot application for unit test using cucumber and mockito frameworks
+A demo Java Gradle Spring Boot Application for Unit Test using Cucumber and Mockito Frameworks
